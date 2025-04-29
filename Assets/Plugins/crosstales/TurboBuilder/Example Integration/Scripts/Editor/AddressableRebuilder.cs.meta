@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9ba850d63baa39a41917867fbb77d266
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98714
+  packageName: Turbo Builder PRO
+  packageVersion: 2024.1.2
+  assetPath: Assets/Plugins/crosstales/TurboBuilder/Example Integration/Scripts/Editor/AddressableRebuilder.cs
+  uploadId: 650862

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fea6732e897d32b4c8631182512d6fe6
+timeCreated: 1477650118
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98714
+  packageName: Turbo Builder PRO
+  packageVersion: 2024.1.2
+  assetPath: Assets/Plugins/crosstales/TurboBuilder/Example Integration/Scripts/Editor/TPBWindow.cs
+  uploadId: 650862

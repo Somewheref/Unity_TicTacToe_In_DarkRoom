@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 006621252cb4a634bad31404ae9b3fac
+timeCreated: 1551129524
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98714
+  packageName: Turbo Builder PRO
+  packageVersion: 2024.1.2
+  assetPath: Assets/Plugins/crosstales/TurboBuilder/Scripts/Editor/Util/CTLogger.cs
+  uploadId: 650862

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 953d3bf9dabf4175a05845fa09185baa
+timeCreated: 1520992284
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98714
+  packageName: Turbo Builder PRO
+  packageVersion: 2024.1.2
+  assetPath: Assets/Plugins/crosstales/TurboBuilder/Scripts/Editor/Builder.cs
+  uploadId: 650862
